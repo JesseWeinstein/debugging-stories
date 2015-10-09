@@ -1,12 +1,13 @@
-Debugging stories are fun! This is a collection of links to various debugging stories.
+Debugging stories are fun! This is a collection of links to various debugging stories, with descriptions (maninly in the form of tags) following them.
 
 [An experience of fixing a memory-corruption bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)  
+> C, Solaris, threading
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
+> C, Unix, corruption, sysadmin
 
 [Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
-
-[Crash Bandicoot Memory Card Corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
+> assembly, embedded, heisenbug, threading
 
 [Crashes only on Wednesdays](http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
 
@@ -39,6 +40,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Matrix transformation is 10x faster in a test harness than in the game](https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
+
+[My Hardest Bug Ever](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
