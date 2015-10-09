@@ -10,10 +10,13 @@ Debugging stories are fun! This is a collection of links to various debugging st
 > assembly, embedded, heisenbug, threading
 
 [Crashes only on Wednesdays](http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
+> C, buffer overflow, date
 
-[Custom Rust OS crashes](http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/)
+[Day 37: After 5 days, my OS doesn't crash when I press a key](http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/)
+> Rust, operating systems
 
 [Debugging Behind the Iron Curtain](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
+> PDP-11, radiation
 
 [Debugging file corruption on iOS](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
 
